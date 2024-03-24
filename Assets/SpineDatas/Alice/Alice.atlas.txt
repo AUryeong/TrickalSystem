@@ -1,0 +1,16 @@
+Alice.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+Base
+bounds:2,1341,2214,2405
+offsets:1,63,2216,2469
+Cheek
+bounds:2,459,1209,880
+offsets:0,9,1209,889
+Face
+bounds:2218,3285,916,461
+offsets:2,1,919,463
+Face2
+bounds:2,2,919,455
+offsets:66,25,1000,500
